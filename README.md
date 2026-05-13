@@ -15,12 +15,11 @@ Actively seeking a **SOC Internship** as a practical stepping stone to build a l
 
 ### 🟣 [LetDefend](./LetDefend)
 *Focus: Real-world SOC Alert Investigations and Endpoint Analysis.*
-*   [Writeup: Compromised WordPress Log Analysis](./LetDefend/Compromised-WordPress-Log-Analysis.md)
+*   *(Detailed writeups will be uploaded here)*
 
 ### 🔵 [Blue Team Labs Online (BTLO)](./BTLO)
 *Focus: Digital Forensics and Incident Response (DFIR).*
-*   *(Detailed writeups will be uploaded here)*
-
+*   [Writeup: Compromised WordPress Log Analysis](./BTLO/Compromised.md)
 ### 🛡️ [CyberDefenders](./CyberDefenders)
 *Focus: Malware Analysis, Memory Forensics, and Blue Team Operations.*
 *   *(Detailed writeups will be uploaded here)*
