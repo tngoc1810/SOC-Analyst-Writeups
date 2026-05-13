@@ -56,6 +56,7 @@ Interpretation: The provocative filename suggests this is either a "flag" left b
 
 Extended Intrusion Timeline:
 The investigation confirms that the activity spanned from January 12th to January 14th, indicating a multi-day operation.
+
 <img width="796" height="531" alt="image" src="https://github.com/user-attachments/assets/7b9265d9-ae97-40e7-8179-78b0337736b4" />
 
 To identify the primary threat actor, I performed a statistical analysis of all unique IP addresses communicating with the server. This helps filter out background noise and focus on high-volume, suspicious traffic.
@@ -351,7 +352,7 @@ Reputation: The IP was not found in existing abuse databases at the time of the 
 
 To complete the investigation, I traced the logs back to the initial setup to identify when these vulnerabilities were first introduced into the environment. This Root Cause Analysis reveals that the security gap was created during the initial configuration of the website.
 
-Final Reconstruction: The Attack Lifecycle
+## Final Reconstruction: The Attack Lifecycle
 1. Preparation Phase: The Genesis of Vulnerability
 The security gap was not a result of a system failure but an authorized configuration error. On January 12th, an administrator (IP 172.21.0.1) inadvertently activated two plugins with critical Remote Code Execution (RCE) flaws:
 
